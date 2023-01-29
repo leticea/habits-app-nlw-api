@@ -33,8 +33,8 @@ Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 - npx prisma studio (para rodar a página do banco de dados).
 - npm run dev (roda o servidor na porta localhost:3333).
 
-- [Frontend WEB](https://github.com/leticea/habits-app-nlw-react)
-- [Frontend React Native](https://github.com/leticea/habits-app-nlw-react-native)
+- [Frontend Reactjs - WEB](https://github.com/leticea/habits-app-nlw-react)
+- [Frontend React Native - MOBILE](https://github.com/leticea/habits-app-nlw-react-native)
 
 ## 👩🏿‍💻 Rotas
 
