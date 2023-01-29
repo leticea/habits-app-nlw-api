@@ -25,8 +25,8 @@ Projeto desenvolvido com API em Node.js para a criação e manutenção de hábi
 
 Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
-- [Frontend Reactjs - WEB](https://github.com/leticea/habits-app-nlw-react)
-- [Frontend React Native - MOBILE](https://github.com/leticea/habits-app-nlw-react-native)
+- [Frontend Reactjs - Web](https://github.com/leticea/habits-app-nlw-react)
+- [Frontend React Native - Mobile](https://github.com/leticea/habits-app-nlw-react-native)
 
 ## 🚀 Como Rodar
 
