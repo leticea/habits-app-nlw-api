@@ -25,6 +25,9 @@ Projeto desenvolvido com API em Node.js para a criação e manutenção de hábi
 
 Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
+- [Frontend Reactjs - WEB](https://github.com/leticea/habits-app-nlw-react)
+- [Frontend React Native - MOBILE](https://github.com/leticea/habits-app-nlw-react-native)
+
 ## 🚀 Como Rodar
 
 - Clone o projeto.
@@ -32,9 +35,6 @@ Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 - npx prisma migrate dev (para configurar o banco de dados).
 - npx prisma studio (para rodar a página do banco de dados).
 - npm run dev (roda o servidor na porta localhost:3333).
-
-- [Frontend Reactjs - WEB](https://github.com/leticea/habits-app-nlw-react)
-- [Frontend React Native - MOBILE](https://github.com/leticea/habits-app-nlw-react-native)
 
 ## 👩🏿‍💻 Rotas
 
