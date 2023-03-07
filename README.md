@@ -42,21 +42,21 @@ Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
 Envia:
 <p align="center">
-  <img alt="post" src=".github/image.png">
+  <img alt="" src=".github/image.png">
 </p>
 
 - **`GET /day?date=2023-01-29T03:00:00.000z`**: Rota para mostrar os hábitos do dia:
 
 Retorna:
 <p align="center">
-  <img alt="get" src=".github/image2.png">
+  <img alt="" src=".github/image2.png">
 </p>
 
 - **`GET /summary`**: Rota para mostrar o resumo dos hábitos criados:
 
 Retorna:
 <p align="center">
-  <img alt="get" src=".github/image3.png">
+  <img alt="" src=".github/image3.png">
 </p>
 
 - **`PATCH /habit/:id/toggle`**: Rota para marcar ou desmarcar um hábito como feito.
