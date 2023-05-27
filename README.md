@@ -7,7 +7,7 @@
 
 <br>
 
-## NLW Setup - Habits
+# NLW Setup - Habits
 
 ## 🚀 Tecnologias
 
@@ -15,9 +15,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Nodejs](https://nodejs.org/en/) - v18.12.1
 - [Npm](https://www.npmjs.com/) - 8.19.2
+- [Fastify](https://www.fastify.io/) - ^4.12.0
+- [TypeScript](https://www.typescriptlang.org/) - ^4.9.4
 - [SQLite](https://www.sqlite.org/index.html)
-- [Prisma](https://www.prisma.io/docs)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/docs) - ^4.9.0
+- [Zod](https://zod.dev/) - ^3.20.2
+- [Day.js](https://day.js.org/) - ^3.20.2
 
 ## 💻 Projeto
 
@@ -25,8 +28,8 @@ Projeto desenvolvido com API em Node.js para a criação e manutenção de hábi
 
 Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 
-- [Frontend Reactjs - Web](https://github.com/leticea/habits-app-nlw-react)
-- [Frontend React Native - Mobile](https://github.com/leticea/habits-app-nlw-react-native)
+- [Front-end - Web](https://github.com/leticea/habits-app-nlw-react)
+- [Front-end - Mobile](https://github.com/leticea/habits-app-nlw-react-native)
 
 ## 🚀 Como Rodar
 
