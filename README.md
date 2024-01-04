@@ -3,7 +3,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
-  </p>
+</p>
 
 <br>
 
@@ -44,6 +44,7 @@ Evento do NLW na plataforma da [Rocketseat](https://www.rocketseat.com.br/).
 - **`POST /habits`**: Rota para criação de hábitos:
 
 Envia:
+
 <p align="center">
   <img alt="" src=".github/image.png">
 </p>
@@ -51,6 +52,7 @@ Envia:
 - **`GET /day?date=2023-01-29T03:00:00.000z`**: Rota para mostrar os hábitos do dia:
 
 Retorna:
+
 <p align="center">
   <img alt="" src=".github/image2.png">
 </p>
@@ -58,6 +60,7 @@ Retorna:
 - **`GET /summary`**: Rota para mostrar o resumo dos hábitos criados:
 
 Retorna:
+
 <p align="center">
   <img alt="" src=".github/image3.png">
 </p>
